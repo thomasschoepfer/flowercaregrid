@@ -1,0 +1,22 @@
+{
+  "name": "flowercaregrid",
+  "version": "1.0.0",
+  "description": "Raspberry Pi based Azure IoT Client to collect data from Xiaomi Mi Flora Plant Sensors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasschoepfer/flowercaregrid.git"
+  },
+  "author": "thomas.schoepfer@xappido.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasschoepfer/flowercaregrid/issues"
+  },
+  "homepage": "https://github.com/thomasschoepfer/flowercaregrid#readme",
+  "dependencies": {
+    "node-mi-flora": "^0.1.1"
+  }
+}
